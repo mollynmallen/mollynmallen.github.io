@@ -8,14 +8,6 @@
 <img src="[images/CDP_Chart1.jpg?raw=true](https://raw.githubusercontent.com/your-username/child-disability-payment-analysis/main/images/CDP_Chart1.png)"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Government Statistical Publications
 
