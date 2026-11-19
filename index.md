@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Data Analysis Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Child Disability Payment: SQL Analysis](https://github.com/mollynmallen/child-disability-payment-analysis)
+<img src="[images/CDP_Chart1.jpg?raw=true](https://raw.githubusercontent.com/your-username/child-disability-payment-analysis/main/images/CDP_Chart1.png)"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -17,13 +17,12 @@
 
 ---
 
-### Category Name 2
+### Government Statistical Publications
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Child Disability Payment Statistics](https://www.socialsecurity.gov.scot/archived-publications)
+- [Client Feedback Statistics](https://www.socialsecurity.gov.scot/archived-publications)
+- [Child Winter Heating Payment Statistics](https://www.socialsecurity.gov.scot/archived-publications)
+- [Personal Independence Payment Statistics](https://www.socialsecurity.gov.scot/archived-publications)
 
 ---
 
