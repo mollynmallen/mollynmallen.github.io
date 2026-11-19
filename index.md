@@ -5,7 +5,7 @@
 ### Data Analysis Projects
 
 [Child Disability Payment: SQL Analysis](https://github.com/mollynmallen/child-disability-payment-analysis)
-<img src="[images/CDP_Chart1.jpg?raw=true](https://raw.githubusercontent.com/your-username/child-disability-payment-analysis/main/images/CDP_Chart1.png)"/>
+<img src="[images/CDP_Chart1.jpg?raw=true](/images/CDP_Chart1.png)"/>
 
 ---
 
